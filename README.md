@@ -2,6 +2,17 @@
 
 ## link for the website : [Click here](https://kartik-katkar.github.io/Esummit-23/)
 
+## Screenshots 
+
+<br>
+
+<p align="center">
+  <img src="./Screenshots/1.gif" alt="image"/>
+</p>
+
+<br>
+<hr>
+
 ESummit is a highly anticipated event that aims to bring together entrepreneurs, innovators, and business leaders from all around the world. This exciting event is designed to provide a platform for learning, networking, and collaboration for those who are passionate about entrepreneurship and innovation.
 
 The website for ESummit has been carefully crafted to provide visitors with all the information they need to make the most of this incredible event. The site features a sleek and modern design that is both visually appealing and user-friendly, making it easy for visitors to navigate and find the information they need.
