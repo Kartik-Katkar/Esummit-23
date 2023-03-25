@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./Screenshots/1.gif" alt="image"/>
+  <img src="./screenshots/1.gif" alt="image"/>
 </p>
 
 <br>
