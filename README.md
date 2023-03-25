@@ -1,6 +1,6 @@
 # Esummit 23
 
-## link for the website : [Click here](https://kartik-katkar.github.io/Esummit-23/)
+## Link for the website : [Click here](https://kartik-katkar.github.io/Esummit-23/)
 
 ## Screenshots 
 
@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<hr>
+## About E-summit
 
 ESummit is a highly anticipated event that aims to bring together entrepreneurs, innovators, and business leaders from all around the world. This exciting event is designed to provide a platform for learning, networking, and collaboration for those who are passionate about entrepreneurship and innovation.
 
