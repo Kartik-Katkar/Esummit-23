@@ -1,6 +1,6 @@
 # Esummit 23
 
-## Link for the website : [Click here](https://kartik-katkar.github.io/Esummit-23/)
+## Link to the Website : [Click here](https://kartik-katkar.github.io/Esummit-23/)
 
 ## Screenshots 
 
