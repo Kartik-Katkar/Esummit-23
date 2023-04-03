@@ -1543,12 +1543,14 @@ h3 {
   color: #808080;
   margin-top: 30px;
   margin-bottom: 60px;
+  text-align: justify;
 }
 
 @media (max-width: 767px) {
   /* line 93, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_about.scss */
   .about_area .about_info p {
     margin-bottom: 30px;
+    text-align: justify;
   }
 }
 
