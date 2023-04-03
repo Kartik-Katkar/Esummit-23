@@ -522,7 +522,7 @@ h3 {
 @media (min-width:350px) and (max-width: 600px){
 
   .boxed-btn-white{
-  margin: 0px 0px 0px 120px;
+  margin: 0px 105px 0px 140px;
   }
 }
 
@@ -1289,7 +1289,8 @@ h3 {
 @media (max-width: 767px) {
   /* line 121, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
   .slider_area .single_date {
-    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-bottom: 35px;
   }
 }
 
@@ -1493,7 +1494,8 @@ h3 {
 @media (max-width: 767px) {
   /* line 61, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_about.scss */
   .about_area .about_info {
-    margin-top: 30px;
+    margin: 30px;
+   
   }
 }
 
@@ -1729,7 +1731,7 @@ h3 {
   font-size: 120px;
   font-weight: 700;
   position: absolute;
-  right: 0;
+  right: 600px;
   top: 100px;
   color: #F3F3F3;
 }
@@ -2012,7 +2014,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 46, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_faq.scss */
   .faq_area #accordion .card .card-body {
-    padding: 0 20px 10px 20px;
+    padding: 0 20px 10px 40px;
     font-size: 12px;
   }
 }
