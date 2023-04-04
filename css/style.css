@@ -1152,16 +1152,16 @@ h3 {
 
 /* line 46, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_area .title_text.title_text2:after {
-    position: absolute;
+  position: absolute;
     background-image: url(../img/banner/path2.png);
     content: "";
     background-repeat: no-repeat;
     background-size: contain;
     z-index: -1;
-    left: -7.5%;
+    left: -8.5%;
     width: 114%;
-    height: 191%;
-    top: -58%;
+    height: 97%;
+    top: -8%;
     opacity: 0.6;
 }
 
